@@ -44,5 +44,5 @@ Graduando em Ciência da Computação - UFC
 Gerente de Projetos - CEOS
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porcotrante)](https://github.com/anuraghazra/github-readme-stats)
+[![Porcotrante's GitHub stats](https://github-readme-stats.vercel.app/api?username=porcotrante)](https://github.com/anuraghazra/github-readme-stats)
