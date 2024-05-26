@@ -1,8 +1,5 @@
-# Pedro Wagner's GitHub Profile
 
-## Sobre Mim
-
-Olá! Eu sou Pedro Wagner, graduando em Ciência da Computação na Universidade Federal do Ceará (UFC). Tenho uma paixão por tecnologia e desenvolvimento de software, e estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos.
+Olá! Eu sou Pedro, graduando em Ciência da Computação na Universidade Federal do Ceará (UFC). Tenho uma paixão por tecnologia e desenvolvimento de software, e estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos.
 
 ## Experiência
 
