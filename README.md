@@ -31,7 +31,7 @@ Atualmente, sou Gerente de Projetos na CEOS, a empresa júnior de Ciência da Co
 
 ## Conecte-se Comigo
 
-Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/pedro-wagner/) ou enviar um email para pedro.wagner@example.com.
+Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/pedro-wagner-rabelo-evaristo-70656a26a/) ou enviar um email para pedro.wagnerrabeloevaristo@gmail.com.
 
 ---
 
