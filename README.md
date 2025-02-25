@@ -6,8 +6,7 @@ Olá! Eu sou Pedro, graduando em Ciência da Computação na Universidade Federa
 Tenho experiência em desenvolvimento web tanto no backend quanto no frontend. Aqui estão algumas das tecnologias com as quais trabalho:
 
 ### Frontend
-- **HTML**
-- **CSS**
+- **Typescript**
 - **JavaScript**
 - **React**
 - **Next.js**
@@ -24,7 +23,7 @@ Você pode encontrar aqui no meu GitHub alguns dos meus projetos pessoais e acad
 
 ## Experiência Profissional
 
-Atualmente, sou Gerente de Projetos na CEOS, a empresa júnior de Ciência da Computação da UFC. Nessa posição, tenho a oportunidade de liderar equipes, gerenciar projetos e trabalhar com clientes reais, aprimorando minhas habilidades em liderança, comunicação e gestão de projetos.
+Atualmente, sou Diretor de Projetos na CEOS Jr., a empresa júnior de Ciência da Computação da UFC. Nessa posição, lidero equipes multidisciplinares, gerencio projetos e colaboro diretamente com clientes reais, aprimorando minhas habilidades em liderança, comunicação e gestão de projetos. Como Diretor de Projetos, implementei metodologias ágeis, como SCRUM, para organizar e otimizar o trabalho das equipes, garantindo entregas eficientes e de alta qualidade. Além disso, estruturei múltiplos projetos de grande porte seguindo padrões amplamente utilizados no mercado, como Clean Architecture, assegurando escalabilidade, manutenibilidade e boas práticas de desenvolvimento.
 
 ## Conecte-se Comigo
 
